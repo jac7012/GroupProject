@@ -7,4 +7,6 @@
 
 {Website}(https://limhuanyee.wixsite.com/group)
 
-https://www.canva.com/design/DAGRKnJ_uoU/2uCOZpGigb1M3-Dr1BsXvw/edit
+{User Manual}https://www.canva.com/design/DAGRKnJ_uoU/2uCOZpGigb1M3-Dr1BsXvw/edit
+
+{Mobile app}(https://www.figma.com/design/9Vjz2YFaBBFArjuzCmozMn/Tech-mobile-app?node-id=0-1&node-type=canvas&t=jm6YbQi3sLGs4V8b-0)
